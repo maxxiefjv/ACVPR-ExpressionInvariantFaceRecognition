@@ -1,4 +1,5 @@
 Data/*
+*.pkl
 .vscode
 .DS*
 */NeutralisedImages/*
