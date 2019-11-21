@@ -9,3 +9,4 @@ Data.zip
 *.npz
 *.npy
 Ananthu_code/*.npz
+*.eps
